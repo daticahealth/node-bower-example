@@ -1,0 +1,6 @@
+{
+  "name": "bower-example",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
