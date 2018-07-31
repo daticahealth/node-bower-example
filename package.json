@@ -7,6 +7,6 @@
   },
   "scripts": {
     "start": "./node_modules/.bin/http-server . -a 127.0.0.1 -p 8080 -o",
-    "postinstall": "./node_modules/bower/bin/bower install"
+    "postinstall": "./node_modules/bower/bin/bower --allow-root install"
   }
 }
