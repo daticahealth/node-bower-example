@@ -2,7 +2,7 @@
   "name": "bower-example",
   "private": true,
   "dependencies": {
-    "bower": "^1.8.4",
+    "bower": "^1.8.8",
     "http-server": "^0.11.1"
   },
   "scripts": {
